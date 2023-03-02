@@ -1,0 +1,11 @@
+/* :root {
+custom propteries css regler (?)
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
